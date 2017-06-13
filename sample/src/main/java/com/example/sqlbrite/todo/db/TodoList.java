@@ -17,7 +17,6 @@ package com.example.sqlbrite.todo.db;
 
 import android.content.ContentValues;
 import android.os.Parcelable;
-
 import com.google.auto.value.AutoValue;
 
 // Note: normally I wouldn't prefix table classes but I didn't want 'List' to be overloaded.
